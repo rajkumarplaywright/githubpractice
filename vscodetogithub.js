@@ -1,0 +1,1 @@
+console.log('This is push of code from vs code to Github - push command')
